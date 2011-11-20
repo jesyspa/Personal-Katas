@@ -1,0 +1,19 @@
+In this kata, you are to write a linked list.  Don't be discouraged if your
+language does not provide pointers -- it's just as fun to do with references
+(although you may be in trouble if your language lacks those, too).
+
+Assignments:
+ 1. Make a function that can store one number in the list (hard to test).
+ 2. Make a function that returns the last number added.
+ 3. Make a function that can remove the last stored number.
+ 4. Change the function made in 2 to return the last number added that has not
+    been removed.
+ 5. Make the function that adds a number to the list be able to add multiple
+    numbers, all of which can be removed with the function made in 3.
+ 6. Make a function that returns a string representation of the list, or that
+    prints the list to a stream.
+ 7. Make a function that adds a number to the other side of the list.
+ 8. Make a function that removes the number from the other side of the list.
+ 9. Make it possible to traverse the list with an iterator (exact name for this
+    functionality depends on the language).
+
