@@ -1,11 +1,20 @@
 This is a repository for Code Katas that I wish to practice.  It consists of
-several branches, each branch being one Kata.
+several branches, each branch being one kata.
 
-It is generally advised to write tests for code written for Katas before the
+It is generally advised to write tests for code written for katas before the
 actual implementation;  to allow for this to be easier, I've written some basic
 files that are necessary every time the kata is done (Makefile, test launcher,
 etc.)
 
-It also seems common to do Kata exercises in the order listed, without
+It also seems common to do kata exercises in the order listed, without
 immediately implementing later features.
 
+Several instructions for more kata are available on the web:
+ - http://codekata.pragprog.com/
+ - http://codingdojo.org/cgi-bin/wiki.pl?KataCatalogue
+ - http://www.butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata
+ - http://codingkata.net/
+ - http://invalidcast.com/2011/09/the-ordered-jobs-kata
+
+The instructions for these kata are not listed, but a link to them and some
+files to get started (as well as any solutions I wish to keep) are.
