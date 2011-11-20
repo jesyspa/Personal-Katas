@@ -1,3 +1,11 @@
 This is a repository for Code Katas that I wish to practice.  It consists of
 several branches, each branch being one Kata.
 
+It is generally advised to write tests for code written for Katas before the
+actual implementation;  to allow for this to be easier, I've written some basic
+files that are necessary every time the kata is done (Makefile, test launcher,
+etc.)
+
+It also seems common to do Kata exercises in the order listed, without
+immediately implementing later features.
+
