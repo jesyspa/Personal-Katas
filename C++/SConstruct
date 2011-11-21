@@ -1,0 +1,2 @@
+Program('fb', ['FizzBuzz.cpp', 'FizzBuzzTest.cpp'],
+	LIBS=['boost_unit_test_framework'])
