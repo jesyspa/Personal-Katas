@@ -1,0 +1,9 @@
+I usually see this as in interview question, not a kata, but it is apparently
+still used as one.  What makes it interesting, however, is the possibility of
+writing this in a great many languages, and the kata consists of implementing
+it in multiple in one sitting,  switching between languages on the fly.
+
+(An interesting variation would be to choose three or four languages and
+implement the features (fizz on %3, buzz on %5, fizzbuzz on both) in each
+language before moving on.)
+
