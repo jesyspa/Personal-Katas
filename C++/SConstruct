@@ -1,0 +1,7 @@
+Program('test', ['RomanNumerals.cpp', 'RomanNumeralsTest.cpp'],
+	LIBS=['boost_unit_test_framework'],
+	parse_flags=['-std=c++0x -ggdb'])
+
+Program('romannumerals', ['RomanNumerals.cpp'],
+	parse_flags=['-std=c++0x -ggdb'])
+
