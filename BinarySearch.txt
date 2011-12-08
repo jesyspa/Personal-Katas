@@ -1,0 +1,4 @@
+Binary search is a way of looking for items in a sorted list by halving the
+number of items that may contain the sought item each iteration.  It is
+surprisingly difficult to implement correctly.
+
