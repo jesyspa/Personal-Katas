@@ -1,0 +1,2 @@
+Program('fb', ['Kata.cpp', 'KataTest.cpp'],
+	LIBS=['boost_unit_test_framework'])
