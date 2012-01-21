@@ -1,0 +1,5 @@
+BubbleSort is a sorting algorithm with an average performance of O(n^2).  It is
+an in-place sorting algorithm that works by going through the array repeatedly
+and swapping adjacent values for as long as necessary, until there are no
+values out-of-order any longer.
+
