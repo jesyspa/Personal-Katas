@@ -1,0 +1,11 @@
+Quicksort is a sorting algorithm that should make an average of O(nlog n)
+comparisons to sort n items, with a worst case of O(n^2) comparisons.
+
+Quicksort operates by selecting a pivot value, then reordering the array so
+that all elements less than the pivot are before it, and all elements greater
+than it are after it.  After this, the pivot need not be moved again.
+
+The algorithm is then applied to both sides of the pivot, once again choosing a
+pivot value and reordering.  This is applied recursively until all elements are
+in place.
+
